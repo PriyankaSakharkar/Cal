@@ -41,7 +41,7 @@ const Cal = () => {
 
     return (
         <div>
-            <p> {inputVal1}</p>
+            <p>  This is cal js{inputVal1}</p>
             <CalWrapper  allBtArr={allBtArr}/>
         </div>
     )
